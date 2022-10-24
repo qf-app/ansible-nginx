@@ -2,3 +2,6 @@
 ansible-playbook -i inventory nginx.yml
 
 ansible-playbook -i inventory site.yml
+
+
+https://ubuntu.com/tutorials/install-and-configure-nginx#1-overview
